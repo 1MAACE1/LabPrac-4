@@ -1,8 +1,8 @@
 Лабораторная работа №4: CSS-библиотеки
  Сайт с использованием bootstrap:
-![alt text](image-1.png)
+![alt text](C:\Users\Mace\Pictures\Screenshots\Screenshot 2025-11-26 110034.png)
  Сайт с использованием tailswind:
-![alt text](image.png)
+![alt text](C:\Users\Mace\Pictures\Screenshots\Screenshot 2025-11-26 105842.png)
 
 1)Какой подход (компонентный Bootstrap или utility-first Tailwind) показался вам удобнее для этой задачи и почему?
 - Компонентный Bootstrap показался удобней для конкретно этой задачи т. к. использользуя классы, элемент сразу выглядит как полноценный, стилизованный компонент, но если бы задача была создать для детальный и уникальный дизайн, utility-first Tailwind был бы более подходящим выбором.
@@ -10,19 +10,21 @@
 2)Приведите пример кода для одного и того же элемента (например, кнопки) на Bootstrap и на Tailwind из вашей работы. В чем ключевое различие в разметке?
 
 Кнопка "Узнать больше" на bootstrap:
-<a href="#features" class="btn btn-primary btn-lg mt-3">Узнать больше</a>
+<!-- <!a href="#features" class="btn btn-primary btn-lg mt-3">Узнать больше</a> -->
 
 И на tailwind:
-<button class="mt-6 px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700">Узнать больше</button>
+<!-- <button class="mt-6 px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700">Узнать больше</button> -->
 
 3)С какими сложностями вы столкнулись при работе с каждой из библиотек?
 
 Проблемы работы с bootsrap: 
+
 -трудно полностью выйти за рамки стандарта
 -схожесть элементов одинаковых типов
 -слабая возможность кастомизации
 
 Проблемы работы с tailwind:
+
 HTML-код засоряется «класс-спамом» 
 Из-за этого:
 -сложнее читать разметку;
