@@ -11,11 +11,12 @@
 
 2)Приведите пример кода для одного и того же элемента (например, кнопки) на Bootstrap и на Tailwind из вашей работы. В чем ключевое различие в разметке?
 
-Кнопка "Узнать больше" на bootstrap:
-!a href="#features" class="btn btn-primary btn-lg mt-3">Узнать больше</a> 
+- Кнопка "Узнать больше" на bootstrap:
+  
+!a href="#features" class="btn btn-primary btn-lg mt-3">Узнать больше</a>. 
 
-И на tailwind:
- button class="mt-6 px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700">Узнать больше</button> 
+- И на tailwind:
+ button class="mt-6 px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700">Узнать больше</button>.
 
 3)С какими сложностями вы столкнулись при работе с каждой из библиотек?
 
